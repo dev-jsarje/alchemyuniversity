@@ -2,7 +2,7 @@
 
 🎓 What is Alchemy University - https://university.alchemy.com/ 
 
-Alchemy University is the ultimate ecosystem for learning how to build and interact with web3. Our goal is to teach you everything you need to know about Solidity and start building in web3, from hands-on bootcamps to starter code that expedites your workflow. 
+Alchemy University is the ultimate ecosystem for learning how to build and interact with web3. The goal is to teach you everything you need to know about Solidity and start building in web3, from hands-on bootcamps to starter code that expedites your workflow. 
 
 There are 3 paths:-
 
