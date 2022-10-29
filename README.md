@@ -1,4 +1,4 @@
-# alchemyuniversity
+# Alchemy University
 
 🎓 What is Alchemy University - https://university.alchemy.com/ 
 
