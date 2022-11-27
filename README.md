@@ -16,3 +16,7 @@ There are 3 paths:-
 - Awaiting start of classes
 
 💰 All this training is FREE!!!!!!!!!!
+
+🎆Alchemy University launched on November 23rd.
+
+Week 1 - The Basics of Javascript - in progress
